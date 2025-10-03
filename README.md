@@ -13,4 +13,13 @@ Streamline Logistics Solutions aims to develop an Excel interactive dashboard th
 5. Allocation rules performance: A bar chart comparing the average delay for each allocation rule
 6. Customer feedback distribution: A pie chart showing the distribution of positive, neutral and negative feedback
 7. Order hour tracking timeline: A timeline or Gantt Chart showing the process of orders over time
-8. Average delay to delivery city: A bar chart is usually associated with delivering to each city.								
+8. Average delay to delivery city: A bar chart is usually associated with delivering to each city.
+       				
+						
+- Dashboard Interaction <a href="https://github.com/AdaoraTiana/Data-Analysis-Dashboard_image.png">view Dashboard</a>
+
+## Process
+- Verify data for any missing values, anomalies and sort out the same
+- Made sure data is consistent and clean with respect to data type
+- Created pivot tables according to the questions asked
+- Merge all pivot tables into one dashboard and apply a slicer to make it dynamic
