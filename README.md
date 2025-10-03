@@ -23,3 +23,8 @@ Streamline Logistics Solutions aims to develop an Excel interactive dashboard th
 - Made sure data is consistent and clean with respect to data type
 - Created pivot tables according to the questions asked
 - Merge all pivot tables into one dashboard and apply a slicer to make it dynamic
+
+  ##Dashboard
+![screenshot(495)](https://github.com/AdaoraTiana/Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-02%20205921.png)
+  
+
